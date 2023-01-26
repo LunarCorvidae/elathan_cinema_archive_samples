@@ -3,7 +3,7 @@ An archive of selected writing samples from the defunct short film review blog E
 
 ## What license is this?
 
-I have specifically not chosen a license for this project, as these are archival PDFs saved from a small blog I previously wrote for that is now defunct. As such, according to the GitHub documentation, the license is as follows: 
+I have specifically not chosen a license for this project, as these are archival PDFs saved from a small blog I previously wrote for that is now defunct. As such, according to the [GitHub documentation](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository), the license is as follows: 
 
 "You're under no obligation to choose a license. However, without a license, the default copyright laws apply, meaning that you retain all rights to your source code and no one may reproduce, distribute, or create derivative works from your work."
 
