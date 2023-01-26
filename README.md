@@ -9,4 +9,8 @@ I have specifically not chosen a license for this project, as these are archival
 
 Please also be mindful of the dates listed on the PDFs, most if not all of these samples are from around 2017-2018 and are several years old. Links or other information in the PDF files might be old, outdated, or lead to other defunct areas of the internet. These are how the articles used to appear as run. 
 
-Thank you for visiting my little window into the past. 
+## Who wrote the blog code?
+
+The core of the blog code I believe came from a wordpress template source, however I did perform basic design editing to the CSS and HTML code, such as editing the columns, colors, and some additional features. I am not sure however, if I still have the code referances for those edits. 
+
+### Thank you for visiting my little window into the past. 
